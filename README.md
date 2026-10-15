@@ -1,5 +1,7 @@
 Ime LG-412081 serial modbus energy meter reading with python
 
+![meter image](LG-412081-WEB-R.jpg)
+
 ```
 Reading LG-412081 connected to COM3 at address 5
 0x0 Protocol type 0 Standard MAP
