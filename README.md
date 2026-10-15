@@ -1,6 +1,6 @@
 Ime LG-412081 serial modbus energy meter reading with python
 
-![meter image](LG-412081-WEB-R.jpg)
+
 
 ```
 Reading LG-412081 connected to COM3 at address 5
@@ -45,3 +45,4 @@ Reading LG-412081 connected to COM3 at address 5
 0x7401 Pulse weight input 10
 0x7402 Pulse pulse input 21474836.48
 ```
+![meter image](LG-412081-WEB-R.jpg)
