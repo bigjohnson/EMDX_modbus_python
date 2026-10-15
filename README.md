@@ -1,6 +1,6 @@
 Ime LG-412081 mdbus energy meter reading with python
 
-`
+```
 Reading LG-412081 connected to COM3 at address 5
 0x0 Protocol type 0 Standard MAP
 0x1001 Configuration of external input 0 Tariff selector
@@ -42,4 +42,4 @@ Reading LG-412081 connected to COM3 at address 5
 0x7400 Measurement unit input 0
 0x7401 Pulse weight input 10
 0x7402 Pulse pulse input (Tariff 2) 21474836.48
-`
+```
