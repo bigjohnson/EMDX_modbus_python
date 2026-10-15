@@ -1,4 +1,4 @@
-Ime LG-412081 serial mdbus energy meter reading with python
+Ime LG-412081 serial modbus energy meter reading with python
 
 ```
 Reading LG-412081 connected to COM3 at address 5
