@@ -183,7 +183,7 @@ try:
     print("0x7401 Pulse weight input", PWI) 
 
     PPI = SMARTMETER.read_long(0x7402, 3) / 100
-    print("0x7402 Pulse pulse input (Tariff 2)", PPI)
+    print("0x7402 Pulse pulse input", PPI)
 
 
 
