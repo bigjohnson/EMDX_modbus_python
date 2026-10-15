@@ -41,5 +41,5 @@ Reading LG-412081 connected to COM3 at address 5
 0x50DD Run hour meter (Tariff 2) 0 s
 0x7400 Measurement unit input 0
 0x7401 Pulse weight input 10
-0x7402 Pulse pulse input (Tariff 2) 21474836.48
+0x7402 Pulse pulse input 21474836.48
 ```
